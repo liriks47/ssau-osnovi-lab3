@@ -62,6 +62,8 @@
 
 Запрос подтверждения выхода из программы (`д`/`н`).
 
+#### [Схема проекта](https://drive.google.com/file/d/1v25M9wTyoRpVlzum8c_PzwPxQ0aM0eYG/view?usp=sharing)
+
 ---
 
 ## Сборка и запуск
